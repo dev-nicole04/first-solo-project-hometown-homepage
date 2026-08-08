@@ -1,17 +1,17 @@
-#Homepage Hometown
+# Homepage Hometown
 
-##Hi everyone! 👋
+## Hi everyone! 👋
 
 This is my Hometown Homepage, and it’s one of the first solo projects I’ve made completely on my own.
 
 Honestly, it feels really good to finally finish something like this. I’m a little giddy because I can see that all the things I’ve been learning and practicing are starting to pay off. The skills I’ve learned are no longer just things I study—they’re things I can actually use to build something.
 
-##Built With
+## Built With
 
 - HTML
 - CSS
 
-##What I Practiced
+## What I Practiced
 
 Through this project, I practiced:
 
@@ -20,7 +20,7 @@ Through this project, I practiced:
 - Working with colors, fonts, spacing, and layouts
 - Using Git and GitHub to manage my project
 
-##Reflection
+## Reflection
 
 This project may be simple, but it means a lot to me because I made it as a solo project. It gave me a small glimpse of what I can create with the skills I’ve been building up over time.
 
