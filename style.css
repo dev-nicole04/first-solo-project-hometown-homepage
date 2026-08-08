@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  height: 800px;
+}
+
+#hero-section {
+  background-image: url("./images/coron.jpg");
+  background-size: cover;
+  padding: 100px 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 200px;
+}
+
+.hero-title {
+  background-color: #605856;
+  color: #F1FAEE;
+  padding: 6px 16px;
+  border-radius: 6px;
+  margin-bottom: 18px;
+  font-size: 30px;
+}
+
+.hero-description {
+  background-color: #274156;
+  color: #F1FAEE;
+  font-size: 20px;
+  padding: 6px 16px;
+  border-radius: 6px;
+  margin: 0;
+}
+
+#activity-section {
+  background-color: #F1FAEE;
+  color: #274156;
+  padding: 25px;
+}
+
+.activity-flex {
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.activity-card {
+  padding: 10px;
+  margin: 10px auto;
+  width: 250px;
+  border: 1px solid back;
+}
+
+.activity-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+
+.activity-header {
+  margin-top: 10px;
+  font-size: 26px
+}
+
+#card-section {
+  background-color: #D2CBCB;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 6px;
+  border-bottom: 8px solid #243B53;
+}
+
+#card-section img {
+  width: 200px;
+  border-radius: 6px;
+}
+
+.card-details {
+  padding: 10px;
+  color: #243B53;
+}
+
+.card-title {
+  font-size: 20px;
+}
+
+.card-description {
+  font-style: italic;
+}
